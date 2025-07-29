@@ -1,0 +1,6 @@
+faststats.c
+setup.py
+faststats.egg-info/PKG-INFO
+faststats.egg-info/SOURCES.txt
+faststats.egg-info/dependency_links.txt
+faststats.egg-info/top_level.txt
