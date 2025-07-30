@@ -18,7 +18,7 @@ This assessment comprises five major tasks covering reverse engineering, low-lev
 
 ## Questions and Deliverables
 
-### ✅ Question 1 – Reverse Engineering an ELF Binary [6pts]
+### ✅ Question 1 – Reverse Engineering an ELF Binary
 
 **Objective:**  
 Perform static and dynamic analysis on an ELF binary using:
@@ -43,7 +43,7 @@ Perform static and dynamic analysis on an ELF binary using:
 
 ---
 
-### ✅ Question 2 – File Line Counter in x86 Assembly [2pts]
+### ✅ Question 2 – File Line Counter in x86 Assembly
 
 **Objective:**  
 Implement an x86 assembly program to:
@@ -60,7 +60,7 @@ Implement an x86 assembly program to:
 
 ---
 
-### ✅ Question 3 – C Extension for Python Statistics [5pts]
+### ✅ Question 3 – C Extension for Python Statistics
 
 **Objective:**  
 Optimize performance by implementing a C extension to replace a heavy Python statistics module.
@@ -83,7 +83,7 @@ Optimize performance by implementing a C extension to replace a heavy Python sta
 
 ---
 
-### ✅ Question 4 – Multithreaded Producer-Consumer Simulation [6pts]
+### ✅ Question 4 – Multithreaded Producer-Consumer Simulation
 
 **Objective:**  
 Simulate a manufacturing system using:
@@ -101,7 +101,7 @@ Simulate a manufacturing system using:
 
 ---
 
-### ✅ Question 5 – Real-Time Multi-Client Chat System [6pts]
+### ✅ Question 5 – Real-Time Multi-Client Chat System
 
 **Objective:**  
 Design a Linux-based chat system using TCP sockets that:
