@@ -32,10 +32,10 @@ objdump -d question1 > disassembly.txt
 ```
 - **Output Example**:
   ```
-  000000000000141d <main>:
-    141d: f3 0f 1e fa    endbr64
-    1421: 55             pushq %rbp
-    1422: 48 89 e5       movq %rsp, %rbp
+  00000000000012a9 <main>:
+    12a9:	f3 0f 1e fa          	endbr64 
+    12ad:	55                   	push   %rbp
+    12ae:	48 89 e5             	mov    %rsp,%rbp
   ```
   ### 2. `strace -o trace.log ./question1`
 #### Syntax
