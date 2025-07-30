@@ -158,7 +158,9 @@ For the chat system:
 ./client
 ```
 
-Dependencies
+## Dependencies
 `gcc`, `gdb`, `strace`, `objdump`, `nasm`
+
 Python 3.x with `setuptools` and `distutils`
+
 POSIX-compliant system (e.g., Linux)
